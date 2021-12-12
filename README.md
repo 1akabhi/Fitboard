@@ -1,2 +1,2 @@
-# Fitboard
+# Fitboard -test
 Fitboard test repository
